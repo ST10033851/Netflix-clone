@@ -26,6 +26,7 @@
     "@types/bcrypt": "^5.0.0",
     "@types/lodash": "^4.14.195",
     "@types/node": "20.3.2",
+    "@types/react": "^18.2.16",
     "eslint": "^8.45.0",
     "postcss": "^8.4.24",
     "prisma": "^4.16.1",
